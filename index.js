@@ -6,3 +6,5 @@ switch (xx) {
   default:
     console.log("as");
 }
+
+console.log("asdsa");
